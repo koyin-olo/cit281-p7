@@ -1,14 +1,34 @@
 # CIT 281 Content
 ## CIT 281 Labs
-### Lab 1
-The first week of the course was dedicated to the initial setup your personal computer with the software tools required for this course
+### [Lab 1](google.com)
+The first week of the course was dedicated to the initial setup of your personal computer with the software tools required for this course. The course required:
+- Chrome
+- Visual Studio Code
+- Visual Studio Code extensions
+- Prettier - Code formatter
+- ESLint
+- GitHub Pull Requests and Issues
+- Node.js and included npm
+- git
+- Postman
+
+After installing these programs, we created our first Node.js server-side JavaScript file and brushed up on our programming skills from CIS 111.
 ### Lab 2
+The main focus for this week was understanding how to use git in the terminal window. We added JavaScript files to git as well as committing changes. Was also introduced to .gitignore file to omitt certain files from being considered in git.
 ### Lab 3
+Had practice destructuring an object and practice with for loop syntax. Also revisted arrow functions, differentiating between implicit and explict returns.
 ### Lab 4
+In this week, we had our first expereince with creating servers using Fastify. We dealt with adding a second route with query parameters, test, and commitring. 
 ### Lab 5
+We started getting more specific with our server creation. In this week we used Postman to see our server output as well as utilizing the different server verbs such as GET and POST.
 ### Lab 6
+The class got a lot of practice creating classes and utilizing their properties.
 ### Lab 7
+This was our first week using GitHub so we spent a lot of time cloning our GitHub repository to our local system and pushing our changes to GitHub.
 ### Lab 8
+Installed the node-fetch package and worked with Fastify to use the fetch() method to output content to a server.
+### Lab 9
+In this lab we walked through a GitHub learning how to create a release base workflow.
 ## CIT 281 Projects
 
 ## Welcome to GitHub Pages
