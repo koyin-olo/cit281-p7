@@ -1,3 +1,16 @@
+# CIT 281 Content
+## CIT 281 Labs
+### Lab 1
+The first week of the course was dedicated to the initial setup your personal computer with the software tools required for this course
+### Lab 2
+### Lab 3
+### Lab 4
+### Lab 5
+### Lab 6
+### Lab 7
+### Lab 8
+## CIT 281 Projects
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/koyin-olo/cit281-p7/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
