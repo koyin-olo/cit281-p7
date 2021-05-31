@@ -1,41 +1,22 @@
 # CIT 281 Content
 ## CIT 281 Labs
-### [Lab 1](google.com)
-The first week of the course was dedicated to the initial setup of your personal computer with the software tools required for this course. The course required:
-- Chrome
-- Visual Studio Code
-- Visual Studio Code extensions
-- Prettier - Code formatter
-- ESLint
-- GitHub Pull Requests and Issues
-- Node.js and included npm
-- git
-- Postman
+- [**Lab 1**](https://koyin-olo.github.io/cit281-lab1/): The first week of the course was dedicated to the initial setup of your personal computer with the software tools required for this course
+- [**Lab 2**](): The main focus for this week was understanding how to use git in the terminal window. We added JavaScript files to git as well as committing changes. Was also introduced to .gitignore file to omitt certain files from being considered in git
+- [**Lab 3**](): Had practice destructuring an object and practice with for loop syntax. Also revisted arrow functions, differentiating between implicit and explict returns
+- [**Lab 4**](): In this week, we had our first expereince with creating servers using Fastify. We dealt with adding a second route with query parameters, test, and commitring
+- [**Lab 5**](): We started getting more specific with our server creation. In this week we used Postman to see our server output as well as utilizing the different server verbs such as GET and POST
+- [**Lab 6**](): The class got a lot of practice creating classes and utilizing their properties
+- [**Lab 7**](): This was our first week using GitHub so we spent a lot of time cloning our GitHub repository to our local system and pushing our changes to GitHub
+- [**Lab 8**](): Installed the node-fetch package and worked with Fastify to use the fetch() method to output content to a server
+- [**Lab 9**](): In this lab we walked through a GitHub learning how to create a release base workflow
 
-After installing these programs, we created our first Node.js server-side JavaScript file and brushed up on our programming skills from CIS 111.
-### Lab 2
-The main focus for this week was understanding how to use git in the terminal window. We added JavaScript files to git as well as committing changes. Was also introduced to .gitignore file to omitt certain files from being considered in git.
-### Lab 3
-Had practice destructuring an object and practice with for loop syntax. Also revisted arrow functions, differentiating between implicit and explict returns.
-### Lab 4
-In this week, we had our first expereince with creating servers using Fastify. We dealt with adding a second route with query parameters, test, and commitring. 
-### Lab 5
-We started getting more specific with our server creation. In this week we used Postman to see our server output as well as utilizing the different server verbs such as GET and POST.
-### Lab 6
-The class got a lot of practice creating classes and utilizing their properties.
-### Lab 7
-This was our first week using GitHub so we spent a lot of time cloning our GitHub repository to our local system and pushing our changes to GitHub.
-### Lab 8
-Installed the node-fetch package and worked with Fastify to use the fetch() method to output content to a server.
-### Lab 9
-In this lab we walked through a GitHub learning how to create a release base workflow.
 ## CIT 281 Projects
-- Project 1: Use the command line interface (CLI) of your operating system to create a number of folders. Create and execute a JavaScript files using Node.js and Visual Studio Code (VSCode) terminal and Run and Debug
-- Project 2: Use the command line interface (CLI) of your operating system to create and work with a git repository (repo). Use git via VSCode
-- Project 3: Gain experience using Fastify with the GET verb, routes, and query parameters
-- Project 4: Continue practice with Fastify in conjuction with Postman
-- Project 5: Working with classes, including class constructors and methods while using Array map() and forEach() methods
-- Project 6: Gain more experience creating and working with classes, specifically working classes with inheritance
+- [**Project 1**](): Use the command line interface (CLI) of your operating system to create a number of folders. Create and execute a JavaScript files using Node.js and Visual Studio Code (VSCode) terminal and Run and Debug
+- [**Project 2**](): Use the command line interface (CLI) of your operating system to create and work with a git repository (repo). Use git via VSCode
+- [**Project 3**](): Gain experience using Fastify with the GET verb, routes, and query parameters
+- [**Project 4**](): Continue practice with Fastify in conjuction with Postman
+- [**Project 5**](): Working with classes, including class constructors and methods while using Array map() and forEach() methods
+- [**Project 6**](): Gain more experience creating and working with classes, specifically working classes with inheritance
 
 ## Welcome to GitHub Pages
 
