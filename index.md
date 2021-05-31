@@ -30,6 +30,12 @@ Installed the node-fetch package and worked with Fastify to use the fetch() meth
 ### Lab 9
 In this lab we walked through a GitHub learning how to create a release base workflow.
 ## CIT 281 Projects
+- Project 1: Use the command line interface (CLI) of your operating system to create a number of folders. Create and execute a JavaScript files using Node.js and Visual Studio Code (VSCode) terminal and Run and Debug
+- Project 2: Use the command line interface (CLI) of your operating system to create and work with a git repository (repo). Use git via VSCode
+- Project 3: Gain experience using Fastify with the GET verb, routes, and query parameters
+- Project 4: Continue practice with Fastify in conjuction with Postman
+- Project 5: Working with classes, including class constructors and methods while using Array map() and forEach() methods
+- Project 6: Gain more experience creating and working with classes, specifically working classes with inheritance
 
 ## Welcome to GitHub Pages
 
